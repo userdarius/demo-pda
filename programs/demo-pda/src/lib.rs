@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use std::mem::size_of;
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("9spvMuHiirYzi8VMBp1AXYVcJyWk26DU3BhjoSa7KKEr");
 
 #[program]
 pub mod demo_pda {
